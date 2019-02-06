@@ -6,7 +6,7 @@
 
 /**
  *
- * @author test
+ * @author 06/02/19
  */
 public class Card {
 
