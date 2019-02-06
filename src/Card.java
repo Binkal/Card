@@ -6,7 +6,7 @@
 
 /**
  *
- * @author test
+ * @author binkal
  */
 public class Card {
 
